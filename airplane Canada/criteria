@@ -1,0 +1,13 @@
+Due to budget cuts, we can only afford to hire a Programming.11/12 developer. We can’t offer much but this will be a fun project, time will fly by! Our goal for this webpage is recruitment. We can’t afford to spend a lot of money so we need to make it seem like we are the best place to work to attract potential employees at a low cost.
+
+We want to build a navigation bar that has at least seven buttons. The navigation bar should have an airplane symbol which toggles the navigation bar on and off. I want the webpage to follow a colour scheme that fits the air Canada identity (white + black + red).
+
+The buttons should have the following functions:
+
+Buttons 1 + 2 + 3 should be a like and dislike button. Have some sort of counter that adds +2 to the counter if the user selections the “Like” button. The counter should decrease by -1 if the user selects the “dislike” button. Button 3 should reset the counter. If the number is positive, we would like the colour to be white. A negative number should have a colour of red. If the number is reset to 0 it should be black.
+
+Button 4 Should flip the colour scheme of the webpage! We could go bankrupt at any moment, and we may need to reinvent ourselves! Please have an infinite number of colour schemes. The button should go to random colour scheme to keep things fresh and exciting!
+
+Button 5 + 6 To show the world how much our employees love working at Air Canada we these buttons to cycle through a list of 4 employee statements. These statements should include their picture, their thoughts about air Canada, and their job title.
+
+Button 7 We trust your judgement and want this button to do something special and unique!
